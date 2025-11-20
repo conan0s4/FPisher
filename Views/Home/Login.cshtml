@@ -1,0 +1,24 @@
+﻿
+
+
+@model FPisher.Models.Login
+
+
+<div style="background-image: url('/images/fpisher.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center;
+            min-height: 100vh;">
+	<div class="text-center">
+
+		<h1>Login User</h1>
+		<br>
+		<p><label>username</label>  <input type="text" placeholder="" asp-for="username">
+			<br>
+		<p><label>password</label> <input type="password" placeholder="" asp-for="password"></p>
+		<br>
+		<a class="btn btn-primary btn-lg" style="background-color : black ; border-color : #2cf876" asp-area="" asp-controller="Home" asp-action="DashBoard">Login</a>
+		<br>
+     </div>
+
+</div>

@@ -31,3 +31,4 @@ C:\Users\loki\source\repos\FPisher\obj\Debug\net8.0\refint\FPisher.dll
 C:\Users\loki\source\repos\FPisher\obj\Debug\net8.0\FPisher.pdb
 C:\Users\loki\source\repos\FPisher\obj\Debug\net8.0\FPisher.genruntimeconfig.cache
 C:\Users\loki\source\repos\FPisher\obj\Debug\net8.0\ref\FPisher.dll
+C:\Users\loki\source\repos\FPisher\obj\Debug\net8.0\FPisher.sourcelink.json

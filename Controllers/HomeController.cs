@@ -23,6 +23,19 @@ namespace FPisher.Controllers
             return View();
         }
 
+        public ActionResult Campaign()
+        {
+            return View();
+
+
+        }
+        public ActionResult Login() {
+            return View();
+
+
+        } 
+
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

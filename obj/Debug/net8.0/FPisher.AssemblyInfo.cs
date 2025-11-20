@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FPisher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d59939ef646d0e04179713cc8f7f00fb8f82d1fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("FPisher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FPisher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
