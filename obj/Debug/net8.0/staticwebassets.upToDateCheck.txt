@@ -1,9 +1,7 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\images\fisherman.png
-wwwroot\images\fishhook.png
+wwwroot\images\binary.png
 wwwroot\images\fpisher.png
-wwwroot\images\isda.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map

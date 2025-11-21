@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\loki\\source\\repos\\FPisher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|c:\\users\\loki\\source\\repos\\fpisher\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|c:\\users\\loki\\source\\repos\\fpisher\\views\\home\\campaign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|solutionrelative:views\\home\\campaign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|c:\\users\\loki\\source\\repos\\fpisher\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|solutionrelative:models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|c:\\users\\loki\\source\\repos\\fpisher\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|c:\\users\\loki\\source\\repos\\fpisher\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|c:\\users\\loki\\source\\repos\\fpisher\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|solutionrelative:views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|c:\\users\\loki\\source\\repos\\fpisher\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,22 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|c:\\users\\loki\\source\\repos\\fpisher\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|c:\\users\\loki\\source\\repos\\fpisher\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|solutionrelative:views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|c:\\users\\loki\\source\\repos\\fpisher\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|c:\\users\\loki\\source\\repos\\fpisher\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|c:\\users\\loki\\source\\repos\\fpisher\\views\\home\\campaign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{990CF16F-D8B7-4AE0-A2F0-A6E433163E03}|FPisher.csproj|solutionrelative:views\\home\\campaign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,103 +39,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\loki\\source\\repos\\FPisher\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\loki\\source\\repos\\FPisher\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T12:34:09.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\loki\\source\\repos\\FPisher\\Models\\Login.cs",
-              "RelativeDocumentMoniker": "Models\\Login.cs",
-              "ToolTip": "C:\\Users\\loki\\source\\repos\\FPisher\\Models\\Login.cs",
-              "RelativeToolTip": "Models\\Login.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T12:34:54.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Campaign.cshtml",
               "DocumentMoniker": "C:\\Users\\loki\\source\\repos\\FPisher\\Views\\Home\\Campaign.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Campaign.cshtml",
               "ToolTip": "C:\\Users\\loki\\source\\repos\\FPisher\\Views\\Home\\Campaign.cshtml",
               "RelativeToolTip": "Views\\Home\\Campaign.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-20T12:27:58.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\loki\\source\\repos\\FPisher\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
               "ToolTip": "C:\\Users\\loki\\source\\repos\\FPisher\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-20T12:20:15.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\loki\\source\\repos\\FPisher\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\loki\\source\\repos\\FPisher\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAIAAAAAMDMzMzPrvwYAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-20T06:43:16.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "DashBoard.cshtml",
               "DocumentMoniker": "C:\\Users\\loki\\source\\repos\\FPisher\\Views\\Home\\DashBoard.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\DashBoard.cshtml",
               "ToolTip": "C:\\Users\\loki\\source\\repos\\FPisher\\Views\\Home\\DashBoard.cshtml",
               "RelativeToolTip": "Views\\Home\\DashBoard.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAiwDQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-20T06:29:21.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\loki\\source\\repos\\FPisher\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\loki\\source\\repos\\FPisher\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-20T06:26:14.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\loki\\source\\repos\\FPisher\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\loki\\source\\repos\\FPisher\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAEAAAAAMzMzMzMbwAYAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAMzMzMzMbwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T06:24:45.088Z",
               "EditorCaption": ""
