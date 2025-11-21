@@ -1,24 +1,35 @@
-﻿
-
+﻿@{
+    ViewData["Title"] = "Login";
+}
 
 @model FPisher.Models.Login
 
+<div style="
+    background-image: url('/images/fpisher.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;">
 
-<div style="background-image: url('/images/fpisher.png');
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-position: center;
-            min-height: 100vh;">
-	<div class="text-center">
+    <div style="background-color: rgba(0,0,0,0.7); padding: 40px; border-radius: 10px; text-align: center; color: #0f0; width: 300px;">
+        <h1 style="margin-bottom: 30px;">Login</h1>
 
-		<h1>Login User</h1>
-		<br>
-		<p><label>username</label>  <input type="text" placeholder="" asp-for="username">
-			<br>
-		<p><label>password</label> <input type="password" placeholder="" asp-for="password"></p>
-		<br>
-		<a class="btn btn-primary btn-lg" style="background-color : black ; border-color : #2cf876" asp-area="" asp-controller="Home" asp-action="DashBoard">Login</a>
-		<br>
-     </div>
+        <form asp-controller="Home" asp-action="Login" method="post">
+            <div style="margin-bottom: 20px; text-align: left;">
+                <label>Username</label>
+                <input type="text" placeholder="Enter username" asp-for="username" style="width: 100%; padding: 8px; margin-top: 5px; border-radius: 4px; border: 1px solid #0f0; background-color: #111; color: #0f0;">
+            </div>
+
+            <div style="margin-bottom: 20px; text-align: left;">
+                <label>Password</label>
+                <input type="password" placeholder="Enter password" asp-for="password" style="width: 100%; padding: 8px; margin-top: 5px; border-radius: 4px; border: 1px solid #0f0; background-color: #111; color: #0f0;">
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-lg" style="background-color: black; border-color: #2cf876; width: 100%;">Login</button>
+        </form>
+    </div>
 
 </div>
