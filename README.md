@@ -7,8 +7,7 @@
     <em>Managers</em> (organization security leads who monitor results).
   </li>
   <li>
-    <strong>Campaign Management:</strong> Admins can create phishing campaigns,
-    add target emails, and launch simulated phishing attacks.
+    <strong>Campaign Management:</strong> Admins can add target emails, and launch simulated phishing attacks.
   </li>
   <li>
     <strong>Email Testing Environment:</strong> Uses Mailtrap as a sandbox SMTP
