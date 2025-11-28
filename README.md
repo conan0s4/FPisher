@@ -30,6 +30,5 @@
 
 <p>
   This project is a student‑built tool focused on understanding phishing workflows.
-  No advanced exploitation techniques — 
 </p>
 
