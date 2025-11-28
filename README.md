@@ -30,6 +30,6 @@
 
 <p>
   This project is a student‑built tool focused on understanding phishing workflows.
-  No advanced exploitation techniques — purely for educational and authorized security testing purposes.
+  No advanced exploitation techniques — 
 </p>
 
