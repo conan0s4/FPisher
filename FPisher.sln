@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPisher", "FPisher.csproj", "{1C4AA3F5-BED9-4140-A08A-D45D1841DEEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C4AA3F5-BED9-4140-A08A-D45D1841DEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4AA3F5-BED9-4140-A08A-D45D1841DEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4AA3F5-BED9-4140-A08A-D45D1841DEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4AA3F5-BED9-4140-A08A-D45D1841DEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AF07062-6A11-4A7C-AEB3-BDCC8AB3BC72}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "testpage";
+}
+
+<h1>testpage</h1>
+
+
+<h2>Welcome!</h2>
+<p>Your visit has been recorded.</p>
+<form asp-action="RecordLogin" method="post">
+    <label>Username</label>
+    <input type="text" name="uname" required />
+
+    <label>Password</label>
+    <input type="password" name="pass" required />
+
+    <button type="submit">Login</button>
+</form>
+
+@if(ViewData["Message"] != null)
+{
+    <p>@ViewData["Message"]</p>
+}

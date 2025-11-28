@@ -1,0 +1,60 @@
+﻿@model IEnumerable<FPisher.Models.Campaign_records>
+
+@{
+    ViewData["Title"] = "Campaign";
+}
+
+<body style="
+    margin: 0;
+    min-height: 100vh;
+    background-color: black;
+    background-image: url('/images/binary.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+">
+    <div style="color: mediumspringgreen; font-family: monospace; padding: 20px;">
+        <h1>Campaign</h1>
+    </div>
+</body>
+
+
+
+<p>
+    <a asp-action="Create">add email</a> 
+    <form asp-action="SendEmails" method="post" style="display:inline;">
+        <button type="submit" class="btn btn-warning" style="background-color:transparent; border-color:mediumspringgreen; color:red;">Send</button>
+    </form>
+</p>
+
+
+<table class="table" style="color:white;">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Campaign_Emails)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.custom_link)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Campaign_Emails)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.custom_link)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
