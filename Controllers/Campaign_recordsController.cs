@@ -36,10 +36,10 @@ namespace FPisher.Controllers
                 return RedirectToAction(nameof(Index));
             }
 
-            var smtpClient = new SmtpClient("sandbox.smtp.mailtrap.io")
+            var smtpClient = new SmtpClient("smtp.mailtrap.io")
             {
                 Port = 587,
-                Credentials = new NetworkCredential("37d0077f609044", "11d2b5e8e79468"),
+                Credentials = new NetworkCredential("mailtrap_usernme", "mailtrap_psw"),
                 EnableSsl = true,
             };
 
